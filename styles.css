@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 72px;
+  color: chocolate;
+  border: 2px solid coral;
+  background-color: cornsilk;
+  padding: 10px;
+  border-radius: 10px;
+}
